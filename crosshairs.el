@@ -7,7 +7,7 @@
 ;; Copyright (C) 2006-2018, Drew Adams, all rights reserved.
 ;; Created: Fri Sep 08 13:09:19 2006
 ;; Version: 0
-;; Package-Requires: ((hl-line+ "0") (col-highlight "0") (vline "0"))
+;; Package-Requires: ((hl-line-plus "0") (col-highlight "0") (vline "0"))
 ;; Last-Updated: Mon Jan  1 10:27:45 2018 (-0800)
 ;;           By: dradams
 ;;     Update #: 516
